@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprihanjay&label=Profile%20views&color=0e75b6&style=flat" alt="sprihanjay" /> </p>
 
-- 🔭 I’m currently working on **Predictive Models for Alzheimer's Disease Prognosis: Integrating Beta-Amyloid Biomarkers and Cognitive Tests.**
+- 🔭 I’m currently working on **Deploying artificial neural network on a FPGA Board**
 
 - 🌱 I’m currently learning **iOS Development and Advanced**
 
