@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Deploying artificial neural network on a FPGA Board**
 
-- 🌱 I’m currently learning **iOS Development and Advanced**
+- 🌱 I’m currently learning **Android Development**
 
-- 👯 I’m looking to collaborate on **New ML Dev Practices & Webapp**
+- 👯 I’m looking to collaborate on **Hackathons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
