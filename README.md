@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **PomoBuddy**
+- 🔭 I’m currently working on **AeroMind**
 
 - 🌱 I’m currently learning **Leetcode problems**
 
