@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stealth Startup**
 
-- 🌱 I’m currently learning **Leetcode problems**
+- 🌱 I’m currently learning **Leetcode problems and AWS**
 
 - 👯 I’m looking to collaborate on **Hackathons**
 
